@@ -1,6 +1,6 @@
 # QoS-driven scheduling experiments
 
-This repository contains the input data used in the experiments described in the paper entitled "QoS-driven scheduling in the cloud", submitted to ACM Transactions on Computer Systems. It also contains instructions on how to run simulation and measurement experiments, using the artifacts that generated the paper results.
+This repository contains the input data used in the experiments described in the phd thesis entitled "QoS-driven scheduling in the cloud providers". It also contains instructions on how to run simulation and measurement experiments, using the artifacts that generated the thesis results.
 
 # Input data
 
